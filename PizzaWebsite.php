@@ -13,7 +13,7 @@
         <img src="pizzaslice.jpg" alt="Pizza slice">
     </header>
     <main>
-        <form action="submit_order.php" method="post">
+        <form action="submit_order.php" method="get">
             <section>
                 <h2>Contact Information</h2>
                 <p>
